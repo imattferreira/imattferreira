@@ -9,7 +9,7 @@ Hi! My name is Matheus Ferreira, I am a student of programming passionate about 
 
 📌️ living in Bauru, SP
 <br/>
-💻️ internship at T.I on **Microcamp Tecnologia**
+💻️ I.T internship on **Microcamp Tecnologia**
 
 <br/>
 
