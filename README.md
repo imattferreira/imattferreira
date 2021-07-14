@@ -22,6 +22,7 @@ Hi! My name is Matheus Ferreira, I'm a software developer passionate about learn
 <br/>
 
 ## **Technologies that I've been studying**
+- Linux
 - Javascript
 - Typescript
 - Node.JS
