@@ -1,4 +1,4 @@
-# Hi! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"> 
+# Hi! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="35px" width="35px"> 
 
 ## 🇧🇷️ Versão em Português
  Olá! Me chamo Matheus Ferreira, sou um desenvolvedor de software aficionado por aprender. Busco sempre auxiliar a minha equipe em seus desafios, contornando-os de forma coesa e organizada.
