@@ -2,23 +2,13 @@
 
 ## 🇧🇷️ Versão em Português
  Olá! Me chamo Matheus Ferreira, sou um desenvolvedor de software aficionado por aprender. Busco sempre auxiliar a minha equipe em seus desafios, contornando-os de forma coesa e organizada.
- Atualmente sou freelancer com as ferramentas **Typescript, NodeJS e React.JS**.
+ Atualmente sou estudante de Ciência da Computação e desenvolvedor com as ferramentas **Typescript, NodeJS e React.JS**.
  
-📌️ Morando em Bauru, SP
-<br/>
-💻️  **Freelancer**
 
 ## 🇺🇸️  **English** Version 
 
 
-Hi! My name is Matheus Ferreira, I'm a software developer passionate about learning. I always try to help my team in their challenges, bypassing them in a cohesive and organized way.
- I'm currently freelancer with the **Typescript, NodeJS e React.JS** stack tools.
-
-📌️ Living in Bauru, SP
-<br/>
-💻️ **Freelancer** 
-
-----------------------------
+Hi! My name is Matheus Ferreira, I'm a software developer passionate about learning. I always try to help my team in their challenges, bypassing them in a cohesive and organized way. Currently I'm student of Computer Science and developer with the **Typescript, NodeJS and ReactJS** stack tools.
 
 ## **Technologies that I've been studying**
 <img align="left" alt="Node.JS" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
@@ -57,14 +47,8 @@ Hi! My name is Matheus Ferreira, I'm a software developer passionate about learn
 
 <br/>
 
--------------
 
-## Stats
-<details>
- <summary>Github Stats</summary>
- <br/>
- 
+## My statistics 
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MattFerreira18&show_icons=true&theme=tokyonight)](https://github.com/MattFerreira18/github-readme-stats)
-</details>
 
 
