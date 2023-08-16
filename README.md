@@ -1,6 +1,6 @@
 # Ey, what's up?! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="35px" width="35px"> 
 
- I'm Matheus Ferreira, an brazilian Software Developer that also are an eternal passionated about learning. Also I'm an student of Computer Science. Currently, my main stack tools is based on ReactJS and Node.JS ecosystems, but I also follow other ecosystems, like Rust, GO and PHP.
+ I'm Matheus Ferreira, a Brazilian Software Developer that also an eternal passionated about learning. Also, a student of Computer Science. Currently, my main stack tools are based on ReactJS and Node.JS ecosystems, but I also follow other ecosystems, like Rust, GO and PHP.
 
 ### Connect with me
  Needs some help or want to talk a little about programming? Connect with me:
