@@ -14,5 +14,5 @@
 ### My Github statistics
 <details>
     <summary>Most used languages</summary>     
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MattFerreira18&show_icons=true&theme=tokyonight" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imattferreira&show_icons=true&theme=tokyonight" />
 </details>
